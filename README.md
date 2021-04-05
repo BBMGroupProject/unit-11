@@ -28,6 +28,7 @@ Connect users with black-owned businesses. Garner more support and income for bl
 
 [ X ] User can sign up
 [ X ] User can sign in
+[ X ] Users can start viewing some businesses
 * User stays signed in 
 * User can leave a review
 * User picks their favorite businesses
