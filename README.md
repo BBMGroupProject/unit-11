@@ -44,6 +44,7 @@ Connect users with black-owned businesses. Garner more support and income for bl
 
 ### GIF
 <img src="https://github.com/BBMGroupProject/unit-10/blob/main/Screen%20Recording%202021-03-28%20at%206.26.00%20PM.gif" width=600>
+<img src="https://github.com/BBMGroupProject/unit-11/blob/main/Screen%20Recording%202021-04-04%20at%2010.34.43%20PM.gif" width=600>
 
 ### 2. Screen Archetypes
 
@@ -94,7 +95,6 @@ Connect users with black-owned businesses. Garner more support and income for bl
 
 <img src="https://github.com/BBMGroupProject/Unit8/blob/main/IMG-2846.jpg" width=600>
 
-<img src="https://github.com/BBMGroupProject/Unit8/blob/main/IMG-2846.jpg" width=600>
 
 
 ### [BONUS] Digital Wireframes & Mockups
